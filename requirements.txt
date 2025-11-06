@@ -1,0 +1,7 @@
+streamlit>=1.36.0
+python-dotenv
+openai>=1.0.0
+supabase
+PyMuPDF
+python-docx
+python-pptx
